@@ -1,7 +1,7 @@
 
 public class Takahiro {
-	int weight = 98;
-	int height = 165;
+	private int weight = 98;
+	private int height = 165;
 	
 	
 	public int getWeight() {
