@@ -1,8 +1,9 @@
 
 public class Takahiro {
+	/** g’·  */
 	int weight = 74;
+	/** ‘Ìd*/
 	int height = 180;
-	
 	
 	public int getWeight() {
 		return weight;
